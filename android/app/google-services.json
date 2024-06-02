@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "441800363046",
+    "project_id": "kgtk-cc906",
+    "storage_bucket": "kgtk-cc906.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441800363046:android:78c7a1c4fe89c54d44eae7",
+        "android_client_info": {
+          "package_name": "com.ktgk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3QXsWMqHIKWvmtfFOxuR4x0oMj4tXot4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
