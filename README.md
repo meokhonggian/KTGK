@@ -1,1 +1,1 @@
-[![ITrongDuong](https://img.youtu.be/LuVubdrPM9c/0.jpg)](https://youtu.be/LuVubdrPM9c)
+[![ITrongDuong](https://img.youtube.com/vi/LuVubdrPM9c/default.jpg)](https://youtu.be/LuVubdrPM9c)
